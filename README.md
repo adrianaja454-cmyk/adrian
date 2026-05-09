@@ -2,7 +2,7 @@
 
 Static landing page untuk server SA-MP / open.mp. Dibangun tanpa framework, fokus ke kecepatan dan kompatibilitas mobile.
 
-Demo: https://username.github.io/solstice-rp
+Demo: [https://username.github.io/solstice-rp](https://jabrann.github.io/Solstice-Website-Gta-Samp/)
 
 ## Features
 
