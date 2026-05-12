@@ -1,4 +1,4 @@
-# Solstice Roleplay — SA-MP Landing Page
+# KotaKita Roleplay — SA-MP Landing Page
 
 Static landing page untuk server SA-MP / open.mp. Dibangun tanpa framework, fokus ke kecepatan dan kompatibilitas mobile.
 
