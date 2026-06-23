@@ -6,9 +6,9 @@ const iconMute = document.getElementById('icon-mute');
 const preloader = document.getElementById('preloader');
 const playBtn = document.getElementById('playBtn');
 
-const SERVER_IP = '43.153.223.35';
-const SERVER_PORT = '7755';
-const DISCORD_INVITE = 'https://discord.gg/h2tzThEP7k'; // ganti kalau invite beda
+const SERVER_IP = '31.58.143.80';
+const SERVER_PORT = '7000';
+const DISCORD_INVITE = 'https://discord.gg/jcSFbwKbjP'; // ganti kalau invite beda
 
 // Preloader
 window.addEventListener('load', () => {
